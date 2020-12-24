@@ -1,0 +1,9 @@
+{
+  "verbose": true
+  // "watch": "./server", 
+  // f-e watch only server-side folders
+  // "env": {
+  //   "PRIVATE_KEY": "test" 
+  // f-e environment variables
+  // }
+}s
